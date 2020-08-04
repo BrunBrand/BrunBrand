@@ -26,5 +26,5 @@
 <br />
 
 
-
-<img align="left" alt="Bruno's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=LordFarron&show_icons=true&hide_border=true&count_private=true?theme=tokyonight" />
+<img align="left" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LordFarron">
+<img align="left" alt="Bruno's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LordFarron&show_icons=true&hide_border=true&count_private=true?theme=tokyonight" />
