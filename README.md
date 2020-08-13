@@ -1,4 +1,4 @@
-## Writer and Coder
+
 
 *Justum et tenacem propositi virum*
 
