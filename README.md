@@ -11,4 +11,4 @@
 
 
 
-<img align="left" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunBrand&layout=compact&theme=radical">
+<img align="left" alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunBrand&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117">
